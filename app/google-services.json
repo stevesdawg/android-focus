@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106812753587",
+    "firebase_url": "https://focus-app-f51a2.firebaseio.com",
+    "project_id": "focus-app-f51a2",
+    "storage_bucket": "focus-app-f51a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106812753587:android:ea7a38f405a0d7431092c6",
+        "android_client_info": {
+          "package_name": "com.example.focusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106812753587-kkrkviub7jog0nlpcr9rhv9ego9gmbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmacExImeU-euLeAvYUA9SvNadqSC9Rmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106812753587-kkrkviub7jog0nlpcr9rhv9ego9gmbd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
